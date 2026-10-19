@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": "user_ahmet_001",
+      "name": "Ahmet Omar",
+      "email": "ahmetomarahmet0@gmail.com",
+      "phone": "+252615555555",
+      "passwordHash": "7a3849cd60eecfb9e22d84dda067f2e7:a1d84081ac6c21a8f66d99a72247bcf259d6c69909ebb760551f9a9459b2c8f105e462116b1f68c2c25e123852e7e375b5a86fb7148525a7fe7d2788e9d8b8dd",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+      "bio": "Xubin ka tirsan bulshada caawinta qoysaska Soomaaliyeed.",
+      "role": "user",
+      "createdAt": "2026-10-10T08:00:00.000Z"
+    },
+    {
+      "id": "user_admin_001",
+      "name": "GURMAD QOYS Moderation",
+      "email": "admin@gurmadqoys.so",
+      "phone": "+252615000000",
+      "passwordHash": "7a3849cd60eecfb9e22d84dda067f2e7:a1d84081ac6c21a8f66d99a72247bcf259d6c69909ebb760551f9a9459b2c8f105e462116b1f68c2c25e123852e7e375b5a86fb7148525a7fe7d2788e9d8b8dd",
+      "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+      "bio": "Kooxda xaqiijinta iyo ilaalinta xogta dadka maqan.",
+      "role": "admin",
+      "createdAt": "2026-10-01T08:00:00.000Z"
+    }
+  ],
+  "people": [
+    {
+      "id": "report_cali_goobe",
+      "name": "Cali Goobe",
+      "age": "8 sano",
+      "category": "Ilmo",
+      "location": "Deynile, Muqdisho",
+      "district": "Deynile",
+      "city": "Muqdisho",
+      "lastSeen": "16 Okt 2026, 10:30 subaxnimo",
+      "description": "Wiil yar oo xiran funaanad buluug ah. Wuxuu ka maqan yahay xaafadda Deyniile agagaarka suuqa weyn.",
+      "phone": "+252615998877",
+      "relationship": "Walaal",
+      "reportType": "WAA LA RAADINAYAA",
+      "status": "active",
+      "photoDataUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "ownerId": "user_ahmet_001",
+      "ownerName": "Ahmet Omar",
+      "createdAt": "2026-10-18T10:30:00.000Z",
+      "relativeTime": "2 saac ka hor",
+      "likesCount": 129,
+      "commentsCount": 24,
+      "isPromoted": false
+    },
+    {
+      "id": "report_sahra_maxamed",
+      "name": "Sahra Maxamed Warsame",
+      "age": "26 sano",
+      "category": "Qof weyn",
+      "location": "Hodan, Muqdisho",
+      "district": "Hodan",
+      "city": "Muqdisho",
+      "lastSeen": "14 Okt 2026, 6:00 galabnimo",
+      "description": "Gabar xiran xijaab madoow. Waxaa ugu dambeysay agagaarka Isbitaalka Digfeer degmada Hodan.",
+      "phone": "+252612345678",
+      "relationship": "Hooyo",
+      "reportType": "WAA LA RAADINAYAA",
+      "status": "active",
+      "photoDataUrl": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=400&q=80",
+      "ownerId": "user_ahmet_001",
+      "ownerName": "Ahmet Omar",
+      "createdAt": "2026-10-18T07:00:00.000Z",
+      "relativeTime": "5 saac ka hor",
+      "likesCount": 92,
+      "commentsCount": 18,
+      "isPromoted": false
+    },
+    {
+      "id": "report_axmed_cali",
+      "name": "Axmed Cali Xasan",
+      "age": "17 sano",
+      "category": "Qof weyn",
+      "location": "Kaxda, Muqdisho",
+      "district": "Kaxda",
+      "city": "Muqdisho",
+      "lastSeen": "12 Okt 2026, 3:00 galabnimo",
+      "description": "Dhalinyaro 17 jir ah oo xiran hoodie madoow. Fadlan ciddii aragta ha la soo xiriirto qoyska.",
+      "phone": "+252619991122",
+      "relationship": "Aabbe",
+      "reportType": "WAA LA RAADINAYAA",
+      "status": "active",
+      "photoDataUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=400&q=80",
+      "ownerId": "user_ahmet_001",
+      "ownerName": "Ahmet Omar",
+      "createdAt": "2026-10-17T15:00:00.000Z",
+      "relativeTime": "1 maalin ka hor",
+      "likesCount": 210,
+      "commentsCount": 46,
+      "isPromoted": true
+    },
+    {
+      "id": "report_yuusuf_cali",
+      "name": "Yuusuf Cali Xaashi",
+      "age": "76 sano",
+      "category": "Waayeel",
+      "location": "Kaxda, Muqdisho",
+      "district": "Kaxda",
+      "city": "Muqdisho",
+      "lastSeen": "10 Okt 2026, 05:00 galabnimo",
+      "description": "Oday waayeel ah oo maqalku ku yaryahay, xiran macawis madoow iyo shaati caddaan ah.",
+      "phone": "+252618889900",
+      "relationship": "Wiil uu dhalay",
+      "reportType": "WAA LA RAADINAYAA",
+      "status": "found",
+      "photoDataUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=400&q=80",
+      "ownerId": "user_admin_001",
+      "ownerName": "Maamulka GURMAD",
+      "createdAt": "2026-10-15T15:20:00.000Z",
+      "relativeTime": "3 maalmood ka hor",
+      "likesCount": 65,
+      "commentsCount": 12,
+      "isPromoted": false
+    }
+  ],
+  "likes": [
+    {
+      "reportId": "report_cali_goobe",
+      "userId": "user_visitor_anon",
+      "createdAt": "2026-10-18T10:00:00.000Z"
+    },
+    {
+      "reportId": "report_cali_goobe",
+      "userId": "127.0.0.1",
+      "createdAt": "2026-10-18T19:51:03.061Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "comment_001",
+      "reportId": "report_cali_goobe",
+      "userId": "user_axmadey",
+      "authorName": "Axmadey Jaynes",
+      "text": "Ninkaan wala Yaqaanaa, waxaan ku arkay agagaarka suuqa Deyniile shalay barqadii.",
+      "createdAt": "2026-10-18T17:22:29.000Z"
+    },
+    {
+      "id": "comment_002",
+      "reportId": "report_sahra_maxamed",
+      "userId": "user_hodan",
+      "authorName": "Faadumo Cali",
+      "text": "Ilaahay ha soo celiyo gabadha yar. Qoyskeeda waxaan ugu baaqaynaa inay la xiriiraan ciidanka booliska saldhigga Hodan.",
+      "createdAt": "2026-10-18T14:10:00.000Z"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "camp_001",
+      "reportId": "report_sahra_maxamed",
+      "reportName": "Sahra Maxamed Warsame",
+      "ownerId": "user_ahmet_001",
+      "objective": "urgent_priority",
+      "locations": [
+        "Muqdisho",
+        "Hodan",
+        "Waberi"
+      ],
+      "budget": 15,
+      "durationDays": 5,
+      "estimatedReachMin": 18000,
+      "estimatedReachMax": 45000,
+      "estimatedImpressionsMin": 28000,
+      "estimatedImpressionsMax": 65000,
+      "paymentMethod": "evc_plus",
+      "paymentPhone": "+252615555555",
+      "status": "active",
+      "actualImpressions": 12450,
+      "actualClicks": 418,
+      "createdAt": "2026-10-17T12:00:00.000Z"
+    }
+  ],
+  "abuseReports": [],
+  "notifications": [
+    {
+      "id": "notif_1792353063061",
+      "userId": "user_ahmet_001",
+      "title": "Qof ayaa Like siiyey",
+      "message": "Warbixinta Cali Goobe waxaa la siiyey Like cusub.",
+      "type": "comment",
+      "read": false,
+      "createdAt": "2026-10-18T19:51:03.061Z",
+      "linkId": "report_cali_goobe"
+    },
+    {
+      "id": "notif_001",
+      "userId": "user_ahmet_001",
+      "title": "Faallo cusub",
+      "message": "Axmadey Jaynes ayaa faallo ku daray warbixinta Cali Goobe.",
+      "type": "comment",
+      "read": false,
+      "createdAt": "2026-10-18T17:22:30.000Z",
+      "linkId": "report_cali_goobe"
+    },
+    {
+      "id": "notif_002",
+      "userId": "user_ahmet_001",
+      "title": "Ololaha Promote waa firfircoon yahay",
+      "message": "Ololaha Sahra Maxamed wuxuu gaaray in ka badan 12,000 oo qof.",
+      "type": "campaign",
+      "read": true,
+      "createdAt": "2026-10-18T08:00:00.000Z",
+      "linkId": "camp_001"
+    }
+  ],
+  "supportTickets": []
+}

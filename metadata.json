@@ -1,0 +1,6 @@
+{
+  "name": "GURMAD QOYS — Bulshada Raadinta Dadka Maqan",
+  "description": "Madal bulsho oo loogu talagalay in lagu caawiyo raadinta dadka maqan iyo dib-u-mideynta qoysaska Soomaaliyeed si masuuliyad leh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
